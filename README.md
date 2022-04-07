@@ -1,7 +1,7 @@
 ### Hi there, I'm Poncho 👋
 
-- 🔭 I’m currently working on researching different types of Malware to build on my development.
-- 🌱 I’m currently learning [TCM's Practical Malware Analysis & Triage Course](https://academy.tcm-sec.com/p/practical-malware-analysis-triage).
+- 🔭 I’m currently working on researching different types of macOS Malware.
+- 🌱 I’m currently learning RegEx.
 - 📫 How to reach me: Twitter @[PonchoSec](https://twitter.com/PonchoSec).
 - 😄 Pronouns: She/Her.
 
