@@ -1,6 +1,6 @@
 ### Hi there, I'm Poncho 👋
 
-- 🔭 I’m currently working on researching different types of macOS Malware.
+- 🔭 I’m currently working on researching different types of macOS Malware / Ransomware etc.
 - 🌱 I’m currently learning about all things macOS.
 - 📫 How to reach me: **Twitter:** [PonchoSec](https://twitter.com/PonchoSec) & [Poncho's Blog](https://ponchosec.dev).
 - 😄 Pronouns: She/Her.
