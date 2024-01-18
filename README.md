@@ -1,9 +1,8 @@
-### Hi there, I'm Poncho 👋
+### Hello Friend.
 
-- 🔭 I’m currently working on researching different types of macOS Malware / Ransomware etc.
-- 🌱 I’m currently learning about all things macOS.
-- 📫 How to reach me: **Twitter:** [PonchoSec](https://twitter.com/PonchoSec) & [Poncho's Blog](https://ponchosec.dev).
-- 😄 Pronouns: She/Her.
+- 🔭 I’m currently working on creating different types of tools with AI integration.
+- 📫 How to reach me: <a href="mailto:hello@ponchosec.dev">hello@ponchosec.dev</a>  & [Poncho's Blog](https://ponchosec.dev).
+- 🧑🏻‍💻 **Avaliability:** Immediately.
 
 <!--
 **PonchoSec/PonchoSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
