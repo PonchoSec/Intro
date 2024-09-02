@@ -1,6 +1,5 @@
-### Hello Friend.
+### Hello.
 
-- 🔭 I’m currently working on creating different types of tools with AI integration.
 - 📫 How to reach me: <a href="mailto:hello@ponchosec.dev">hello@ponchosec.dev</a>  & [Poncho's Blog](https://ponchosec.dev).
 - 🧑🏻‍💻 **Avaliability:** Immediately.
 
